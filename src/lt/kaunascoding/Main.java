@@ -10,5 +10,12 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int ivestasSkaicius = sc.nextInt();
         System.out.println("Ivestas skaičius: "+ ivestasSkaicius);
+
+
+
+
+
+
+
     }
 }
